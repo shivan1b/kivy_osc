@@ -4,6 +4,7 @@ This is a sample program to implement OSC communication between an activity and 
 **Brief overview**
 
 
+```
 ---------------------------------------------------------------------------------
 |                                                                               |
 |                                                                               |
@@ -19,7 +20,7 @@ This is a sample program to implement OSC communication between an activity and 
 |                                                                               |
 |                                 Application                                   |
 ---------------------------------------------------------------------------------
-
+```
 
 Application comprises of UI and service so there should be two main.py bundled together.
 
